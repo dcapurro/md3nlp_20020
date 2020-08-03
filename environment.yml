@@ -13,7 +13,7 @@ dependencies:
     - pymysql
     - cycontext
     - ibis-framework[mysql]
-    - clinical-sectionizer=0.1.2
-    - medspacy=0.0.1
+    - clinical-sectionizer==0.1.2
+    - medspacy==0.0.1
     - RISE
 
