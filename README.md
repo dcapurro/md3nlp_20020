@@ -4,4 +4,4 @@ This repository is for the Jupyter notebooks used in the research methods course
 
 These notebooks can be run on binder by clicking the following icon
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Melbourne-BMDS/md3nlp_20020/master?filepath=notebooks%2Fintro_to_bec.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dcapurro/md3nlp_20020/master?filepath=md3nlp_20020%2Fnotebooks%2F)
